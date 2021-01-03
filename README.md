@@ -1,2 +1,2 @@
-# J2EE
-This Repository in Java web development Project.
+# Result System
+This project is Nalanda College of Engineering Result System.
